@@ -3,13 +3,13 @@ systemctl is a powerful web-based server management interface that allows you to
 
 ## Key Features
 ✅ **Centralized Management** - Control multiple servers from a single dashboard  
-✅ **Real-time Monitoring** - Get instant updates on system resources and service status
-✅ **One-click Service Control** - Start, stop, and restart services with a single click
-✅ **Secure Access** - Protected with Basic authentication and SSH key security
-✅ **Responsive Design** - Works on desktop and mobile devices
-✅ **No Agent Required** - Uses SSH for secure remote execution without installing agents
-✅ **Detailed System Metrics** - View CPU, memory, disk usage, system load, and uptime at a glance
-✅ **Error Handling** - Comprehensive error reporting with detailed debug information
+✅ **Real-time Monitoring** - Get instant updates on system resources and service status  
+✅ **One-click Service Control** - Start, stop, and restart services with a single click  
+✅ **Secure Access** - Protected with Basic authentication and SSH key security  
+✅ **Responsive Design** - Works on desktop and mobile devices  
+✅ **No Agent Required** - Uses SSH for secure remote execution without installing agents  
+✅ **Detailed System Metrics** - View CPU, memory, disk usage, system load, and uptime at a glance  
+✅ **Error Handling** - Comprehensive error reporting with detailed debug information  
 
 ## Interface Description
 
@@ -136,14 +136,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 systemctlは、シンプルで直感的なUIを通じて複数のリモートLinuxサーバー上のシステムサービスを監視および制御できる強力なWebベースのサーバー管理インターフェースです。安全なWebインターフェースを通じて、リアルタイムのシステムリソース情報とサービスステータスの監視を提供します。
 
 ## 主な機能
-✅ **一元管理** - 単一のダッシュボードから複数のサーバーを制御
-✅ **リアルタイム監視** - システムリソースとサービスステータスの即時更新
-✅ **ワンクリックサービス制御** - サービスの起動、停止、再起動をワンクリックで実行
-✅ **セキュアなアクセス** - Basic認証とSSHキーセキュリティによる保護
-✅ **レスポンシブデザイン** - デスクトップとモバイルデバイスの両方で動作
-✅ **エージェント不要** - エージェントをインストールせずにSSHを使用した安全なリモート実行
-✅ **詳細なシステムメトリクス** - CPU、メモリ、ディスク使用率、システム負荷、稼働時間を一目で確認
-✅ **エラー処理** - 詳細なデバッグ情報を含む包括的なエラーレポート
+✅ **一元管理** - 単一のダッシュボードから複数のサーバーを制御  
+✅ **リアルタイム監視** - システムリソースとサービスステータスの即時更新  
+✅ **ワンクリックサービス制御** - サービスの起動、停止、再起動をワンクリックで実行  
+✅ **セキュアなアクセス** - Basic認証とSSHキーセキュリティによる保護  
+✅ **レスポンシブデザイン** - デスクトップとモバイルデバイスの両方で動作  
+✅ **エージェント不要** - エージェントをインストールせずにSSHを使用した安全なリモート実行  
+✅ **詳細なシステムメトリクス** - CPU、メモリ、ディスク使用率、システム負荷、稼働時間を一目で確認  
+✅ **エラー処理** - 詳細なデバッグ情報を含む包括的なエラーレポート  
 
 ## インターフェース説明
 
