@@ -2,7 +2,7 @@
 systemctl is a powerful web-based server management interface that allows you to monitor and control system services on multiple remote Linux servers through a simple and intuitive UI. It provides real-time system resource information and service status monitoring through a secure web interface.
 
 ## Key Features
-✅ **Centralized Management** - Control multiple servers from a single dashboard
+✅ **Centralized Management** - Control multiple servers from a single dashboard  
 ✅ **Real-time Monitoring** - Get instant updates on system resources and service status
 ✅ **One-click Service Control** - Start, stop, and restart services with a single click
 ✅ **Secure Access** - Protected with Basic authentication and SSH key security
